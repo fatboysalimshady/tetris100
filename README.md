@@ -8,13 +8,14 @@
 - Use the up arrow key to rotate the tetrominoes
 - Use the down arrow key to speed up the tetrominoes    
 
-how to install
+## Rules of the game    
 
-- clone the repository
-- run the game
+- You have to clear 100 lines to win
+- You have to clear 4 lines at once to get a tetris
+- You have to clear 10 lines at once to get a double tetris
+- You have to clear 20 lines at once to get a triple tetris
+- You have to clear 30 lines at once to get a quadruple tetris
 
+# there are 100 levels in the game
 
-
-i added a new feature and it works
-
-
+- each level the speed of the tetrominoes increases
